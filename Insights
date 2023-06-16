@@ -1,0 +1,22 @@
+Hello Everyone,
+I have created this interactive Superstore Sales dashboard using Power BI.
+
+Problem Statement/Objective:-
+To Contribute to the success of our business by utilizing data analysis techniques, especially focusing on the time series analysis to provide valuable insights and accurate sales forecasting.
+
+Task Performed:-
+1. Create Dashboard using KPIs and add interactive visualization and filter.
+2. Used DAX Queries for calculating AOD (Average Order Delivery).
+3. Added Slicers to Check Region Sales.
+4.Visualized the Data using Area Chart, Donut Chart, Stacked Bar Chart, and cards.
+5. Checked the Sales Forecasting by Applying Times Series and forecast the sales for next 15 days.
+
+Insights And Recommendation:-
+1. California, New York and Texas are the top 3 states with Maximum Sales.
+2. Most preferred mode of Payment is COD.
+3. People preferred Standard Ship Mode.
+4. Maximum sale in September 2020 compared with 2019 , but maximum profit in March 2020.
+5. Compared with 5 region maximum sale in western region.
+
+LEARNING:-
+Incorporated data analysis techniques, specializing in time series analysis, to deliver , valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
